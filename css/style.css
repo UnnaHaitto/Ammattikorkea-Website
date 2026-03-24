@@ -3,7 +3,7 @@
     font-weight: 400;
     font-style: normal;
     color: white;
-    text-shadow: 2px 2px 5px #ec5380;
+    text-shadow: 2px 2px 10px #ae2e4f;
 }
 
 h1{
@@ -129,6 +129,16 @@ h2{
 
 figure{
     margin: 0;
+}
+
+#contact_container{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+iframe{
+    box-shadow: 2px 2px 10px #ae2e4f;
 }
 
 /*
