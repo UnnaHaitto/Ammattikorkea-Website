@@ -140,8 +140,18 @@ figure{
 
 #contact_container{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
     padding: 200px 60px;
+}
+
+#contact_content{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+section p:first-child {
+    margin-top: 0;
 }
 
 iframe{
