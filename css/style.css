@@ -53,8 +53,8 @@ main {
 
 #main_site_container {
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 #main_site_container h1{
@@ -92,10 +92,7 @@ main {
 }
 
 #products_main_container{
-    padding-right: 40px;
-    padding-left: 40px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 60px 40px 60px 40px;
 }
 
 #product_container{
@@ -144,7 +141,7 @@ figure{
 #contact_container{
     display: flex;
     justify-content: space-between;
-    padding: 50px;
+    padding: 200px 60px;
 }
 
 iframe{
